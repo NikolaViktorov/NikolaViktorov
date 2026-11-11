@@ -10,7 +10,7 @@ Computer Science student at **Leipzig University**, interested in building pract
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/nikola-viktorovb188471ba)
 [![Website](https://img.shields.io/badge/Website-BagheerasDream-8A7048?style=flat&logo=googlechrome&logoColor=white)](https://bagheerasdream.de/)
 
-[**View my CV (PDF)**](./Nikola_Viktorov_CV_Updated.pdf)
+[**View my CV (PDF)**](./Nikola_Viktorov_CV.pdf)
 
 </div>
 
@@ -22,9 +22,7 @@ Computer Science student at **Leipzig University**, interested in building pract
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
 
 **Backend & Frameworks**
 
@@ -38,8 +36,6 @@ Computer Science student at **Leipzig University**, interested in building pract
 
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Databases & Tools**
 
@@ -75,15 +71,6 @@ October 2024 – Present
 
 **Professional Training** — SoftUni, Bulgaria  
 C# Web Development · JavaScript Web Development
-
-## 🌍 Languages
-
-- Bulgarian — Native
-- German — C1 (TDN 4)
-- English — C2
-- Serbian — A2
-
----
 
 <div align="center">
 
